@@ -1,0 +1,6 @@
+# Bibliotecas para cargar y manipular el conjunto de datos
+datasets
+datasets
+numpy
+
+numpy==1.22.0
